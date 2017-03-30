@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="https://raw.github.com/terryyin/lizard/master/lizard.xsl"?>
+<cppncss>
+	<measure type="Function">
+		<labels>
+			<label>Nr.</label>
+			<label>NCSS</label>
+			<label>CCN</label>
+		</labels>
+		<item name="application(...) at ./Calculator/AppDelegate.swift:17">
+			<value>1</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="applicationWillResignActive(...) at ./Calculator/AppDelegate.swift:22">
+			<value>2</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="applicationDidEnterBackground(...) at ./Calculator/AppDelegate.swift:27">
+			<value>3</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="applicationWillEnterForeground(...) at ./Calculator/AppDelegate.swift:32">
+			<value>4</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="applicationDidBecomeActive(...) at ./Calculator/AppDelegate.swift:36">
+			<value>5</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="applicationWillTerminate(...) at ./Calculator/AppDelegate.swift:40">
+			<value>6</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<average label="NCSS" value="2"/>
+		<average label="CCN" value="1"/>
+		<item name="viewDidLoad(...) at ./Calculator/ViewController.swift:18">
+			<value>7</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="didReceiveMemoryWarning(...) at ./Calculator/ViewController.swift:23">
+			<value>8</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="numberPressed(...) at ./Calculator/ViewController.swift:28">
+			<value>9</value>
+			<value>11</value>
+			<value>2</value>
+		</item>
+		<item name="operationPressed(...) at ./Calculator/ViewController.swift:40">
+			<value>10</value>
+			<value>9</value>
+			<value>2</value>
+		</item>
+		<item name="equatePressed(...) at ./Calculator/ViewController.swift:51">
+			<value>11</value>
+			<value>8</value>
+			<value>1</value>
+		</item>
+		<item name="clearScreen(...) at ./Calculator/ViewController.swift:61">
+			<value>12</value>
+			<value>5</value>
+			<value>1</value>
+		</item>
+		<item name="pushOperand(...) at ./Calculator/ViewController.swift:67">
+			<value>13</value>
+			<value>4</value>
+			<value>1</value>
+		</item>
+		<item name="popOperand(...) at ./Calculator/ViewController.swift:72">
+			<value>14</value>
+			<value>7</value>
+			<value>1</value>
+		</item>
+		<item name="performOperation(...) at ./Calculator/ViewController.swift:80">
+			<value>15</value>
+			<value>14</value>
+			<value>5</value>
+		</item>
+		<average label="NCSS" value="5"/>
+		<average label="CCN" value="1"/>
+		<item name="setUp(...) at ./CalculatorTests/CalculatorTests.swift:13">
+			<value>16</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="tearDown(...) at ./CalculatorTests/CalculatorTests.swift:18">
+			<value>17</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="testExample(...) at ./CalculatorTests/CalculatorTests.swift:23">
+			<value>18</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="testPerformanceExample(...) at ./CalculatorTests/CalculatorTests.swift:28">
+			<value>19</value>
+			<value>4</value>
+			<value>1</value>
+		</item>
+		<average label="NCSS" value="4"/>
+		<average label="CCN" value="1"/>
+	</measure>
+	<measure type="File">
+		<labels>
+			<label>Nr.</label>
+			<label>NCSS</label>
+			<label>CCN</label>
+			<label>Functions</label>
+		</labels>
+		<item name="./Calculator/AppDelegate.swift">
+			<value>1</value>
+			<value>18</value>
+			<value>6</value>
+			<value>6</value>
+		</item>
+		<item name="./Calculator/ViewController.swift">
+			<value>2</value>
+			<value>71</value>
+			<value>15</value>
+			<value>9</value>
+		</item>
+		<item name="./CalculatorTests/CalculatorTests.swift">
+			<value>3</value>
+			<value>16</value>
+			<value>4</value>
+			<value>4</value>
+		</item>
+		<average label="NCSS" value="35"/>
+		<average label="CCN" value="8"/>
+		<average label="Functions" value="6"/>
+		<sum label="NCSS" value="105"/>
+		<sum label="CCN" value="25"/>
+		<sum label="Functions" value="19"/>
+		<average label="NCSS" value="5"/>
+		<average label="CCN" value="1"/>
+	</measure>
+</cppncss>
+
