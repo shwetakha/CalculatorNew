@@ -347,6 +347,7 @@
 				PROVISIONING_PROFILE = "f823c983-aeec-4210-804c-c6f7592cf985";
 				PROVISIONING_PROFILE_SPECIFIER = "iOS WildCard Profile";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -365,6 +366,7 @@
 				PROVISIONING_PROFILE = "f823c983-aeec-4210-804c-c6f7592cf985";
 				PROVISIONING_PROFILE_SPECIFIER = "iOS WildCard Profile";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

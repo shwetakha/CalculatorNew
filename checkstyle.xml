@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<checkstyle version="4.3">
+	<file name="/Users/admin/Desktop/Jenkins/workspace/Calculator_iOS_shweta/Calculator/AppDelegate.swift">
+		<error line="16" column="0" severity="warning" message="Limit vertical whitespace to a single empty line. Currently 2."/>
+	</file>
+	<file name="/Users/admin/Desktop/Jenkins/workspace/Calculator_iOS_shweta/Calculator/AppDelegate.swift">
+		<error line="44" column="0" severity="warning" message="Limit vertical whitespace to a single empty line. Currently 2."/>
+	</file>
+	<file name="/Users/admin/Desktop/Jenkins/workspace/Calculator_iOS_shweta/Calculator/AppDelegate.swift">
+		<error line="46" column="0" severity="error" message="File should contain 10 lines or less: currently contains 46"/>
+	</file>
+	<file name="/Users/admin/Desktop/Jenkins/workspace/Calculator_iOS_shweta/Calculator/ViewController.swift">
+		<error line="95" column="0" severity="error" message="File should contain 10 lines or less: currently contains 95"/>
+	</file>
+	<file name="/Users/admin/Desktop/Jenkins/workspace/Calculator_iOS_shweta/CalculatorTests/CalculatorTests.swift">
+		<error line="30" column="21" severity="warning" message="When using trailing closures, empty parentheses should be avoided after the method call."/>
+	</file>
+	<file name="/Users/admin/Desktop/Jenkins/workspace/Calculator_iOS_shweta/CalculatorTests/CalculatorTests.swift">
+		<error line="35" column="0" severity="error" message="File should contain 10 lines or less: currently contains 35"/>
+	</file>
+</checkstyle>
