@@ -11,7 +11,7 @@
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A5C468B3-AE18-434B-96A1-D24ABE06B393",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
     "0B63162449A0CEAC22BB23E6FA414F62F8152E2B" : "Calculator\/",
-    "2DF8D4067E44F719B782A1CC54588A68B61DC3FC" : "Calculator_iOS_shweta\/",
+    "2DF8D4067E44F719B782A1CC54588A68B61DC3FC" : "Calculator\/",
     "FE4192E41AE603EDB3B4C589F4B406D348D1D3DC" : ""
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "Calculator",
